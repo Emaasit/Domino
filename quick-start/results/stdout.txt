@@ -1,0 +1,16 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Using saved GitHub credentials for user Emaasit...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Starting run...
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2014-09-24 04:36:17.403 [NotebookApp] Using existing profile dir: u'/home/ubuntu/.ipython/profile_default'
+2014-09-24 04:36:17.409 [NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+2014-09-24 04:36:17.436 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+2014-09-24 04:36:17.437 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+2014-09-24 04:36:17.438 [NotebookApp] Serving notebooks from local directory: /mnt
+2014-09-24 04:36:17.446 [NotebookApp] 0 active kernels 
+2014-09-24 04:36:17.446 [NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8888/
+2014-09-24 04:36:17.447 [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+2014-09-24 04:36:17.447 [NotebookApp] WARNING | No web browser found: could not locate runnable browser.
+2014-09-24 04:36:18.095 [tornado.access] 302 GET /notebooks (54.162.57.202) 4.86ms
